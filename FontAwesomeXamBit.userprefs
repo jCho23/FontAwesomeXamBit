@@ -1,18 +1,19 @@
 ﻿<Properties StartupConfiguration="{5973FDFA-AD5C-4E0A-A3EE-2D594FCE00F4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FontAwesomeXamBit/Pages/FontAwesomeBit.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Info.plist">
     <Files>
       <File FileName="FontAwesomeXamBit/App.xaml.cs" Line="11" Column="1" />
       <File FileName="FontAwesomeXamBit/App.xaml" Line="7" Column="1" />
       <File FileName="FontAwesomeXamBit/Pages/MyPage.xaml.cs" Line="1" Column="2" />
       <File FileName="FontAwesomeXamBit/Pages/FontAwesomeBit.xaml" Line="6" Column="1" />
       <File FileName="FontAwesomeXamBit/Pages/FontAwesomeBit.xaml.cs" Line="1" Column="1" />
+      <File FileName="iOS/Info.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.FontAwesomeXamBit.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.92BB0B49-F7D0-43AD-846C-179E336FCD5B">
+  <MonoDevelop.Ide.ItemProperties.FontAwesomeXamBit.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.92BB0B49-F7D0-43AD-846C-179E336FCD5B" automaticSigning="False">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.FontAwesomeXamBit.iOS>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
